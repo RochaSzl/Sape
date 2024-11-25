@@ -10,13 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@supabase/supabase-js": "2.46.1",
-    "@types/react": "^18.2.43",
-    "@types/react-dom": "^18.3.1",
+    "@supabase/supabase-js": "^2.46.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.28.0",
-    "supabase": "1.215.0"
+    "react-router-dom": "^6.26.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.65",
@@ -28,6 +25,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "typescript": "^5.4.2",
-    "vite": "^5.1.6"
+    "vite": "^5.4.11"
   }
 }
